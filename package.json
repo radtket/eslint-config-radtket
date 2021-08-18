@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-radtket",
-  "version": "1.0.14",
+  "version": "1.0.15",
   "description": "ESLint and Prettier Config from Taylor Radtke",
   "main": "index.js",
   "scripts": {
@@ -20,7 +20,7 @@
   "license": "MIT",
   "dependencies": {
     "eslint": "^6.0.0",
-    "eslint-config-airbnb": "^18.2.1",
+    "eslint-config-airbnb": "18.0.0",
     "eslint-plugin-import": "^2.22.1",
     "eslint-plugin-jsx-a11y": "^6.4.1",
     "eslint-plugin-react": "^7.24.0",
@@ -28,7 +28,7 @@
   },
   "devDependencies": {
     "eslint": "^6.0.0",
-    "eslint-config-airbnb": "^18.2.1",
+    "eslint-config-airbnb": "18.0.0",
     "eslint-plugin-import": "^2.22.1",
     "eslint-plugin-jsx-a11y": "^6.4.1",
     "eslint-plugin-react": "^7.24.0",
