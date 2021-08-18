@@ -22,8 +22,7 @@
     "commonjs": true
   },
   "plugins": [
-    "prettier",
-    "html"
+    "prettier"
   ],
   "rules": {
     "comma-dangle": 0,
