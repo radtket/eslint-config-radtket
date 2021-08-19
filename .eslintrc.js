@@ -9,13 +9,14 @@ module.exports = {
   },
   rules: {
     'arrow-body-style': ['error', 'always'],
-    'no-underscore-dangle': 0,
     'comma-dangle': 0,
+    'no-underscore-dangle': 0,
     'react/jsx-filename-extension': 0,
-    'react/jsx-sort-props': 1,
     'react/jsx-props-no-spreading': 0,
-    'react/no-unescaped-entities': 0,
+    'react/jsx-sort-props': 1,
     'react/jsx-uses-react': 1,
+    'react/no-unescaped-entities': 0,
+    'react/prop-types': 1,
     'react/react-in-jsx-scope': 0,
     'no-unused-expressions': [
       'error',
