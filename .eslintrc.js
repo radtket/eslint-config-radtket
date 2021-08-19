@@ -34,7 +34,6 @@ module.exports = {
         jsxBracketSameLine: false,
         'number-leading-zero': null,
         arrowParens: 'avoid',
-        singleQuote: true,
       },
     ],
   },

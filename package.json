@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-radtket",
-  "version": "1.0.21",
+  "version": "1.0.22",
   "description": "ESLint and Prettier Config from Taylor Radtke",
   "main": "index.js",
   "scripts": {
